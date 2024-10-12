@@ -11,7 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
+<<<<<<< HEAD
 symfony 5,5
+=======
+composer
+>>>>>>> 81611671e2f7649bd743cb9f8edd651fb5808f72
 
 ```
 
